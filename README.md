@@ -47,6 +47,6 @@ Example usage:
 SampleCrash.exe --install
 SampleCrash.exe --info
 SampleCrash.exe --Crash
-SampleCrash.exe --Monitor
+SampleCrash.exe --monitor
 SampleCrash.exe --uninstall
 ```
