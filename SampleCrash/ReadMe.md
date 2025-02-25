@@ -38,7 +38,7 @@ The `SampleCrash` application supports the following command line options:
 - `--uninstall`: Uninstalls the local dump folder for the application.
                 If the application is started with administrator privileges, install the local dump folder for all users, otherwise, install the local dump folder for the current user.
 - `--info`: Displays information about the local dump configuration for current user. and all users.
-- `--monitor` : Monitor the registry for changes, create and inptut file to the folder C:\Users\<Username>\AppData\Roaming\temp\localdump\registry.log
+- `--monitor` : Monitor the registry for changes, create and input file to the folder C:\Users\<Username>\AppData\Roaming\temp\localdump\registry.log
 - `--crash`: Crashes the application intentionally for testing purposes, produce the memory dump file on the folder C:\Users\<Username>\AppData\Roaming\temp\localdump
 
 
